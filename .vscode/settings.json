@@ -1,0 +1,73 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "d:\\Projects\\School\\Jaar 1\\Periode D\\AP\\CPP\\FAs\\2.1",
+            "binaryPath": "d:\\Projects\\School\\Jaar 1\\Periode D\\AP\\CPP\\FAs\\2.1\\myapp",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "d:\\Projects\\School\\Jaar 1\\Periode D\\AP\\CPP\\FAs\\2.1",
+            "binaryPath": "d:\\Projects\\School\\Jaar 1\\Periode D\\AP\\CPP\\FAs\\2.1\\warehouse",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "d:\\Projects\\School\\Jaar 1\\Periode D\\AP\\CPP\\FAs\\2.1",
+            "binaryPath": "d:\\Projects\\School\\Jaar 1\\Periode D\\AP\\CPP\\FAs\\2.1\\test_warehouse",
+            "binaryArgs": []
+        }
+    ],
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+    "files.associations": {
+        "*.tcc": "cpp",
+        "array": "cpp",
+        "atomic": "cpp",
+        "bit": "cpp",
+        "cctype": "cpp",
+        "clocale": "cpp",
+        "cmath": "cpp",
+        "compare": "cpp",
+        "concepts": "cpp",
+        "cstdarg": "cpp",
+        "cstddef": "cpp",
+        "cstdint": "cpp",
+        "cstdio": "cpp",
+        "cstdlib": "cpp",
+        "cstring": "cpp",
+        "ctime": "cpp",
+        "cwchar": "cpp",
+        "cwctype": "cpp",
+        "deque": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "exception": "cpp",
+        "algorithm": "cpp",
+        "functional": "cpp",
+        "iterator": "cpp",
+        "memory": "cpp",
+        "memory_resource": "cpp",
+        "numeric": "cpp",
+        "random": "cpp",
+        "string_view": "cpp",
+        "system_error": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "fstream": "cpp",
+        "initializer_list": "cpp",
+        "iomanip": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "numbers": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "stdexcept": "cpp",
+        "streambuf": "cpp",
+        "typeinfo": "cpp"
+    }
+}
